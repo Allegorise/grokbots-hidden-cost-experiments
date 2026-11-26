@@ -1,0 +1,401 @@
+ID,date,sender,subject,body,processed
+1,2026-09-02 23:00,Clara Meyer <clara.meyer@atlasprint.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Clara Meyer",TRUE
+2,2026-09-05 02:00,Clara Moreau <clara.moreau@ironoak.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Clara Moreau",TRUE
+3,2026-09-05 22:00,David Novak <david.novak@atlasprint.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+David Novak",TRUE
+4,2026-09-07 02:00,Daniel Weber <daniel.weber@ironoak.example>,Delivery delay for order 1117,"Unfortunately, order 1117 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Daniel Weber",TRUE
+5,2026-09-07 04:00,Hana Varga <hana.varga@brightpath.example>,Follow-up on proposal 1931,"Thank you for taking the time to review our proposal 1931 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Hana Varga",TRUE
+6,2026-09-08 03:00,Oliver Grant <oliver.grant@greenfield.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Oliver Grant",TRUE
+7,2026-09-10 02:00,Oliver Varga <oliver.varga@northwind.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Oliver Varga",TRUE
+8,2026-09-11 01:00,Lukas Svoboda <lukas.svoboda@silverline.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Lukas Svoboda",TRUE
+9,2026-09-11 02:00,Jakub Weber <jakub.weber@northwind.example>,Follow-up on proposal 4908,"Thank you for taking the time to review our proposal 4908 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Jakub Weber",TRUE
+10,2026-09-11 12:00,Julia Horvat <julia.horvat@novasoft.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Julia Horvat",TRUE
+11,2026-09-14 19:00,Anna Duarte <anna.duarte@bluepeak.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Anna Duarte",TRUE
+12,2026-09-14 22:00,Martin Keller <martin.keller@orbitlogistics.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Martin Keller",TRUE
+13,2026-09-17 12:00,Nina Varga <nina.varga@silverline.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Nina Varga",TRUE
+14,2026-09-17 13:00,Laura Fischer <laura.fischer@orbitlogistics.example>,Price update effective 1 February,"Please be advised that our price list will be updated effective 1 February. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Laura Fischer",TRUE
+15,2026-09-19 13:00,Laura Moreau <laura.moreau@ironoak.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Laura Moreau",TRUE
+16,2026-09-19 16:00,Nina Meyer <nina.meyer@northwind.example>,Follow-up on proposal 7924,"Thank you for taking the time to review our proposal 7924 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Nina Meyer",TRUE
+17,2026-09-20 17:00,Petra Meyer <petra.meyer@brightpath.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Petra Meyer",TRUE
+18,2026-09-21 04:00,Daniel Novak <daniel.novak@ironoak.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Daniel Novak",TRUE
+19,2026-09-21 19:00,David Meyer <david.meyer@greenfield.example>,Delivery delay for order 5335,"Unfortunately, order 5335 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+David Meyer",TRUE
+20,2026-09-21 22:00,Nina Lind <nina.lind@novasoft.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Nina Lind",TRUE
+21,2026-09-22 05:00,Jakub Duarte <jakub.duarte@novasoft.example>,Delivery delay for order 4262,"Unfortunately, order 4262 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Jakub Duarte",TRUE
+22,2026-09-22 09:00,Clara Weber <clara.weber@silverline.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Clara Weber",TRUE
+23,2026-09-23 16:00,Martin Holt <martin.holt@novasoft.example>,Invoice 1058 for October services,"Please find attached invoice 1058 covering the consulting services delivered in October. The total amount is 6,264 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Martin Holt",TRUE
+24,2026-09-23 21:00,Clara Novak <clara.novak@bluepeak.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Clara Novak",TRUE
+25,2026-09-23 21:00,Daniel Kral <daniel.kral@novasoft.example>,Invoice 5905 for October services,"Please find attached invoice 5905 covering the consulting services delivered in October. The total amount is 11,668 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Daniel Kral",TRUE
+26,2026-09-23 23:00,Elena Keller <elena.keller@silverline.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Elena Keller",TRUE
+27,2026-09-24 12:00,Hana Svoboda <hana.svoboda@greenfield.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Hana Svoboda",TRUE
+28,2026-09-24 23:00,Peter Kral <peter.kral@silverline.example>,Price update effective 1 March,"Please be advised that our price list will be updated effective 1 March. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Peter Kral",TRUE
+29,2026-09-25 14:00,Mark Fischer <mark.fischer@novasoft.example>,Follow-up on proposal 9042,"Thank you for taking the time to review our proposal 9042 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Mark Fischer",TRUE
+30,2026-09-25 19:00,Peter Grant <peter.grant@ironoak.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Peter Grant",TRUE
+31,2026-09-27 09:00,David Moreau <david.moreau@northwind.example>,Price update effective 1 February,"Please be advised that our price list will be updated effective 1 February. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+David Moreau",TRUE
+32,2026-09-27 15:00,Sofia Fischer <sofia.fischer@northwind.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Sofia Fischer",TRUE
+33,2026-09-28 07:00,Clara Weber <clara.weber@novasoft.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Clara Weber",TRUE
+34,2026-09-28 23:00,Samuel Weber <samuel.weber@orbitlogistics.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Samuel Weber",TRUE
+35,2026-09-29 05:00,Julia Brooks <julia.brooks@northwind.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Julia Brooks",TRUE
+36,2026-09-30 14:00,David Varga <david.varga@bluepeak.example>,Follow-up on proposal 5462,"Thank you for taking the time to review our proposal 5462 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+David Varga",TRUE
+37,2026-10-01 14:00,Eva Lind <eva.lind@northwind.example>,Price update effective 1 January,"Please be advised that our price list will be updated effective 1 January. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Eva Lind",TRUE
+38,2026-10-02 22:00,Jakub Holt <jakub.holt@bluepeak.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Jakub Holt",TRUE
+39,2026-10-02 22:00,David Meyer <david.meyer@ironoak.example>,Invoice 6688 for October services,"Please find attached invoice 6688 covering the consulting services delivered in October. The total amount is 9,528 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+David Meyer",TRUE
+40,2026-10-03 19:00,Martin Keller <martin.keller@greenfield.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Martin Keller",TRUE
+41,2026-10-03 19:00,Thomas Novak <thomas.novak@greenfield.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Thomas Novak",TRUE
+42,2026-10-04 15:00,Lukas Svoboda <lukas.svoboda@greenfield.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Lukas Svoboda",TRUE
+43,2026-10-06 00:00,Daniel Novak <daniel.novak@northwind.example>,Invoice 2528 for October services,"Please find attached invoice 2528 covering the consulting services delivered in October. The total amount is 13,146 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Daniel Novak",TRUE
+44,2026-10-06 04:00,Clara Grant <clara.grant@harborfoods.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Clara Grant",TRUE
+45,2026-10-07 08:00,Lukas Novak <lukas.novak@northwind.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Lukas Novak",TRUE
+46,2026-10-08 07:00,Elena Fischer <elena.fischer@harborfoods.example>,Invoice 7882 for October services,"Please find attached invoice 7882 covering the consulting services delivered in October. The total amount is 14,273 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Elena Fischer",TRUE
+47,2026-10-08 17:00,Sofia Varga <sofia.varga@harborfoods.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Sofia Varga",TRUE
+48,2026-10-09 03:00,Julia Brooks <julia.brooks@atlasprint.example>,Follow-up on proposal 5563,"Thank you for taking the time to review our proposal 5563 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Julia Brooks",TRUE
+49,2026-10-09 09:00,Sofia Meyer <sofia.meyer@silverline.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Sofia Meyer",TRUE
+50,2026-10-10 06:00,Martin Weber <martin.weber@orbitlogistics.example>,Price update effective 1 January,"Please be advised that our price list will be updated effective 1 January. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Martin Weber",TRUE
+51,2026-10-10 18:00,Oliver Weber <oliver.weber@novasoft.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Oliver Weber",TRUE
+52,2026-10-11 02:00,Sofia Kral <sofia.kral@greenfield.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Sofia Kral",TRUE
+53,2026-10-12 00:00,Thomas Weber <thomas.weber@northwind.example>,Invoice 6138 for October services,"Please find attached invoice 6138 covering the consulting services delivered in October. The total amount is 1,736 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Thomas Weber",TRUE
+54,2026-10-12 18:00,Mark Holt <mark.holt@harborfoods.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Mark Holt",TRUE
+55,2026-10-12 18:00,Daniel Meyer <daniel.meyer@ironoak.example>,Delivery delay for order 8999,"Unfortunately, order 8999 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Daniel Meyer",TRUE
+56,2026-10-14 15:00,Julia Keller <julia.keller@novasoft.example>,Follow-up on proposal 9317,"Thank you for taking the time to review our proposal 9317 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Julia Keller",TRUE
+57,2026-10-14 19:00,Daniel Fischer <daniel.fischer@novasoft.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Daniel Fischer",TRUE
+58,2026-10-17 02:00,David Keller <david.keller@atlasprint.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+David Keller",TRUE
+59,2026-10-21 12:00,Hana Svoboda <hana.svoboda@bluepeak.example>,Delivery delay for order 4681,"Unfortunately, order 4681 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Hana Svoboda",TRUE
+60,2026-10-21 14:00,Hana Grant <hana.grant@northwind.example>,Delivery delay for order 9928,"Unfortunately, order 9928 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Hana Grant",TRUE
+61,2026-10-22 01:00,Samuel Novak <samuel.novak@greenfield.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Samuel Novak",TRUE
+62,2026-10-22 13:00,Laura Novak <laura.novak@ironoak.example>,Delivery delay for order 2669,"Unfortunately, order 2669 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Laura Novak",TRUE
+63,2026-10-23 09:00,Jakub Holt <jakub.holt@bluepeak.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Jakub Holt",TRUE
+64,2026-10-24 02:00,Mark Kral <mark.kral@silverline.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Mark Kral",TRUE
+65,2026-10-24 10:00,Anna Moreau <anna.moreau@harborfoods.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Anna Moreau",TRUE
+66,2026-10-25 11:00,Laura Duarte <laura.duarte@novasoft.example>,Price update effective 1 January,"Please be advised that our price list will be updated effective 1 January. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Laura Duarte",TRUE
+67,2026-10-27 15:00,Petra Novak <petra.novak@bluepeak.example>,Price update effective 1 January,"Please be advised that our price list will be updated effective 1 January. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Petra Novak",TRUE
+68,2026-10-27 23:00,Anna Novak <anna.novak@novasoft.example>,Delivery delay for order 7625,"Unfortunately, order 7625 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Anna Novak",TRUE
+69,2026-10-28 11:00,Mark Grant <mark.grant@bluepeak.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Mark Grant",TRUE
+70,2026-10-30 13:00,Clara Lind <clara.lind@brightpath.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Clara Lind",TRUE
+71,2026-10-30 18:00,Lukas Grant <lukas.grant@bluepeak.example>,Price update effective 1 March,"Please be advised that our price list will be updated effective 1 March. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Lukas Grant",TRUE
+72,2026-10-31 07:00,Petra Lind <petra.lind@silverline.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Petra Lind",TRUE
+73,2026-11-02 03:00,Daniel Meyer <daniel.meyer@orbitlogistics.example>,Delivery delay for order 4545,"Unfortunately, order 4545 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Daniel Meyer",TRUE
+74,2026-11-02 12:00,Nina Brooks <nina.brooks@ironoak.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Nina Brooks",TRUE
+75,2026-11-03 12:00,David Keller <david.keller@novasoft.example>,Delivery delay for order 4657,"Unfortunately, order 4657 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+David Keller",TRUE
+76,2026-11-04 02:00,Lukas Keller <lukas.keller@harborfoods.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Lukas Keller",TRUE
+77,2026-11-04 04:00,Clara Moreau <clara.moreau@novasoft.example>,Follow-up on proposal 4143,"Thank you for taking the time to review our proposal 4143 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Clara Moreau",TRUE
+78,2026-11-06 18:00,Eva Svoboda <eva.svoboda@atlasprint.example>,Delivery delay for order 3417,"Unfortunately, order 3417 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Eva Svoboda",TRUE
+79,2026-11-07 23:00,Martin Svoboda <martin.svoboda@brightpath.example>,Delivery delay for order 8800,"Unfortunately, order 8800 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Martin Svoboda",TRUE
+80,2026-11-09 07:00,Oliver Duarte <oliver.duarte@silverline.example>,Follow-up on proposal 8135,"Thank you for taking the time to review our proposal 8135 last week. I wanted to follow up and see whether you had any questions about the scope or the pricing structure. We can adjust the phasing if a smaller initial pilot would be easier to approve internally. Our team is available to start as early as the beginning of next month, so a decision by Friday would help us reserve the right people.
+
+Best regards,
+Oliver Duarte",TRUE
+81,2026-11-10 04:00,Hana Svoboda <hana.svoboda@orbitlogistics.example>,Meeting request: Q3 planning,"I would like to schedule a one-hour meeting to review our Q3 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Hana Svoboda",TRUE
+82,2026-11-10 11:00,Eva Horvat <eva.horvat@brightpath.example>,Delivery delay for order 6313,"Unfortunately, order 6313 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Eva Horvat",TRUE
+83,2026-11-13 00:00,Daniel Meyer <daniel.meyer@silverline.example>,Price update effective 1 February,"Please be advised that our price list will be updated effective 1 February. Most items will increase by three to five percent due to higher transport and energy costs. Existing orders confirmed before the effective date will be invoiced at current prices. The full updated price list is attached. Your account manager is available to discuss volume discounts or longer-term agreements that could offset part of this change.
+
+Best regards,
+Daniel Meyer",TRUE
+84,2026-11-13 18:00,Samuel Novak <samuel.novak@atlasprint.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Samuel Novak",TRUE
+85,2026-11-14 07:00,Daniel Keller <daniel.keller@atlasprint.example>,Invoice 2375 for October services,"Please find attached invoice 2375 covering the consulting services delivered in October. The total amount is 11,330 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Daniel Keller",TRUE
+86,2026-11-15 02:00,Mark Meyer <mark.meyer@harborfoods.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Mark Meyer",TRUE
+87,2026-11-15 04:00,Nina Lind <nina.lind@brightpath.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Nina Lind",TRUE
+88,2026-11-15 06:00,Lukas Keller <lukas.keller@bluepeak.example>,Access request for reporting portal,"Could you please grant our two new analysts access to the reporting portal? They will need read access to the sales and inventory dashboards and permission to export data to Excel. Their names and email addresses are listed below. We would appreciate it if access could be set up before Monday, as they start onboarding then and the first training session relies on live data.
+
+Best regards,
+Lukas Keller",TRUE
+89,2026-11-15 13:00,Oliver Meyer <oliver.meyer@brightpath.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Oliver Meyer",TRUE
+90,2026-11-17 02:00,Daniel Meyer <daniel.meyer@greenfield.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Daniel Meyer",TRUE
+91,2026-11-17 11:00,Peter Kral <peter.kral@silverline.example>,Feedback on last workshop,"I wanted to share some feedback from our team after last week's workshop. Overall the session was very well received, especially the hands-on part with real data. A few participants asked for more time on data modelling and for the slides to be shared in advance next time. Could you send the recording and materials? We are also interested in booking a follow-up session for the management team.
+
+Best regards,
+Peter Kral",TRUE
+92,2026-11-18 21:00,Martin Keller <martin.keller@brightpath.example>,Delivery delay for order 6967,"Unfortunately, order 6967 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Martin Keller",TRUE
+93,2026-11-19 14:00,Lukas Fischer <lukas.fischer@orbitlogistics.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Lukas Fischer",TRUE
+94,2026-11-20 16:00,Thomas Novak <thomas.novak@ironoak.example>,Invoice 6111 for October services,"Please find attached invoice 6111 covering the consulting services delivered in October. The total amount is 10,233 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Thomas Novak",TRUE
+95,2026-11-21 07:00,Elena Moreau <elena.moreau@silverline.example>,Meeting request: Q2 planning,"I would like to schedule a one-hour meeting to review our Q2 planning and align on priorities for the dashboard rollout. Would Tuesday or Thursday afternoon next week work for you? I will prepare a short agenda covering budget, timeline and the open data quality issues. Please also let me know if anyone from your finance team should join, since several decisions depend on their input regarding licence costs.
+
+Best regards,
+Elena Moreau",TRUE
+96,2026-11-21 08:00,Daniel Keller <daniel.keller@harborfoods.example>,Delivery delay for order 2124,"Unfortunately, order 2124 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Daniel Keller",FALSE
+97,2026-11-22 06:00,Julia Varga <julia.varga@silverline.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Julia Varga",FALSE
+98,2026-11-22 15:00,Petra Weber <petra.weber@silverline.example>,Contract renewal reminder,"This is a friendly reminder that our service agreement expires at the end of next month. We would be happy to renew under the same terms, with an optional upgrade to extended support hours. I have attached the renewal form and a short summary of the services used this year. Please sign and return it by the 20th, or let me know if you would like to discuss changes before renewing.
+
+Best regards,
+Petra Weber",FALSE
+99,2026-11-22 20:00,Jakub Weber <jakub.weber@northwind.example>,Delivery delay for order 7528,"Unfortunately, order 7528 will be delayed by approximately five working days due to a supplier shortage of packaging materials. We apologise for the inconvenience and have arranged priority shipping at no additional cost once the goods are ready. Your account manager will confirm the new delivery date by Wednesday. If this delay affects your production schedule, please reply and we will look for a partial shipment option.
+
+Best regards,
+Jakub Weber",FALSE
+100,2026-11-23 11:00,Oliver Brooks <oliver.brooks@novasoft.example>,Invoice 9751 for October services,"Please find attached invoice 9751 covering the consulting services delivered in October. The total amount is 2,873 EUR, payable within 30 days of the issue date. Our bank details are unchanged from the previous invoice. If your accounts payable team needs a purchase order number added, let me know and I will reissue the document today. Thank you again for the smooth cooperation this quarter; we look forward to continuing the work on the reporting project next month.
+
+Best regards,
+Oliver Brooks",FALSE

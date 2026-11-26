@@ -1,0 +1,10 @@
+Email ID,Sender,Subject,Invoice amount,Currency,Payment terms
+23,Martin Holt <martin.holt@novasoft.example>,Invoice 1058 for October services,6264,EUR,Within 30 days of issue date
+25,Daniel Kral <daniel.kral@novasoft.example>,Invoice 5905 for October services,11668,EUR,Within 30 days of issue date
+39,David Meyer <david.meyer@ironoak.example>,Invoice 6688 for October services,9528,EUR,Within 30 days of issue date
+43,Daniel Novak <daniel.novak@northwind.example>,Invoice 2528 for October services,13146,EUR,Within 30 days of issue date
+46,Elena Fischer <elena.fischer@harborfoods.example>,Invoice 7882 for October services,14273,EUR,Within 30 days of issue date
+53,Thomas Weber <thomas.weber@northwind.example>,Invoice 6138 for October services,1736,EUR,Within 30 days of issue date
+85,Daniel Keller <daniel.keller@atlasprint.example>,Invoice 2375 for October services,11330,EUR,Within 30 days of issue date
+94,Thomas Novak <thomas.novak@ironoak.example>,Invoice 6111 for October services,10233,EUR,Within 30 days of issue date
+100,Oliver Brooks <oliver.brooks@novasoft.example>,Invoice 9751 for October services,2873,EUR,Within 30 days of issue date

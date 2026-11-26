@@ -1,0 +1,3 @@
+# License scope
+
+Upon authorized public release, Allegorise research datasets in `data/` and `results/`, and research documentation in `docs/`, README and CHANGELOG, are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode . Attribute Allegorise, the study title, version, license and source URL (when available), and indicate changes. The MIT license applies to code in `scripts/`, `tests/` and the workflow, not to the research datasets or methodology. Allegorise logos, branding, website articles and private evidence are excluded. Third-party rights are not granted. These licenses take effect with the authorized public release of v1.0.
